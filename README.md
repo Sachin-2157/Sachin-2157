@@ -1,3 +1,4 @@
+![image](https://github.com/Sachin-2157/Sachin-2157/blob/main/Beige%20&%20Brown%20Simple%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
